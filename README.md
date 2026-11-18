@@ -15,8 +15,7 @@ npm run dev
 ```
 Buka http://localhost:5173
 
-## Screenshot
-> Ganti dengan screenshot hasil aplikasi kamu (simpan di folder `screenshots/`).
+
 
 | Halaman | Screenshot |
 |---|---|
